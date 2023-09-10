@@ -1,3 +1,5 @@
+//Video of Real-life Functional Circuit using Code: https://www.youtube.com/shorts/KGtrC-ntMO8
+
 //values that remain the same(so using const): 
 const int buttonPinF = 6; // setting the pins for each button
 const int buttonPinB = 5; // setting the pins for each button
